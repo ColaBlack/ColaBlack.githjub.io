@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ColaBlack 分享文档</title><link>https://ColaBlack.github.io/ColaBlack.githjub.io</link><description>分享一些配置信息以便日后复用</description><copyright>ColaBlack 分享文档</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/142144384?u=bb69885187594a28a371d8fd6929247791fc8dc9&amp;v=4</url><title>avatar</title><link>https://ColaBlack.github.io/ColaBlack.githjub.io</link></image><lastBuildDate>Wed, 23 Oct 2024 07:54:17 +0000</lastBuildDate><managingEditor>ColaBlack 分享文档</managingEditor><ttl>60</ttl><webMaster>ColaBlack 分享文档</webMaster><item><title>java操作邮箱 - 邮箱发送验证码 -redis分布式缓存 -redisson分布式缓存</title><link>https://ColaBlack.github.io/ColaBlack.githjub.io/post/java-cao-zuo-you-xiang-%20-%20-you-xiang-fa-song-yan-zheng-ma-%20-redis-fen-bu-shi-huan-cun-%20-redisson-fen-bu-shi-huan-cun.html</link><description>java操作邮箱 - 邮箱发送验证码 -redis分布式缓存 -redisson分布式缓存&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ColaBlack 分享文档</title><link>https://ColaBlack.github.io/ColaBlack.githjub.io</link><description>分享一些配置信息以便日后复用</description><copyright>ColaBlack 分享文档</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/142144384?u=bb69885187594a28a371d8fd6929247791fc8dc9&amp;v=4</url><title>avatar</title><link>https://ColaBlack.github.io/ColaBlack.githjub.io</link></image><lastBuildDate>Sun, 27 Oct 2024 13:18:12 +0000</lastBuildDate><managingEditor>ColaBlack 分享文档</managingEditor><ttl>60</ttl><webMaster>ColaBlack 分享文档</webMaster><item><title>minio对象存储 -图床 -图片上传 -头像</title><link>https://ColaBlack.github.io/ColaBlack.githjub.io/post/minio-dui-xiang-cun-chu-%20--tu-chuang-%20--tu-pian-shang-chuan-%20--tou-xiang.html</link><description># minio对象存储 -图床 -图片上传 -头像&#13;
+&#13;
+参考：&#13;
+&#13;
+1,[MINIO在java中的使用](https://blog.csdn.net/weixin_43676950/article/details/118938099)&#13;
+&#13;
+2.[MinIO Linux官方文档](https://min.io/docs/minio/linux/index.html)&#13;
+&#13;
+### 1.利用1panel安装minio&#13;
+&#13;
+图片上传等服务依赖于对象存储服务，本文就以开源对象储存minio为例简单介绍。</description><guid isPermaLink="true">https://ColaBlack.github.io/ColaBlack.githjub.io/post/minio-dui-xiang-cun-chu-%20--tu-chuang-%20--tu-pian-shang-chuan-%20--tou-xiang.html</guid><pubDate>Sun, 27 Oct 2024 13:17:42 +0000</pubDate></item><item><title>java操作邮箱 - 邮箱发送验证码 -redis分布式缓存 -redisson分布式缓存</title><link>https://ColaBlack.github.io/ColaBlack.githjub.io/post/java-cao-zuo-you-xiang-%20-%20-you-xiang-fa-song-yan-zheng-ma-%20-redis-fen-bu-shi-huan-cun-%20-redisson-fen-bu-shi-huan-cun.html</link><description>java操作邮箱 - 邮箱发送验证码 -redis分布式缓存 -redisson分布式缓存&#13;
 &#13;
 参考:java操作163邮箱&#13;
 &#13;
